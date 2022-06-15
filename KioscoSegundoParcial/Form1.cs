@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Drawing;
+using System.Threading;
+using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace KioscoSegundoParcial
@@ -11,6 +13,7 @@ namespace KioscoSegundoParcial
         public Action DelegadoActionNegativo;  //devuelve void, recibe algo
         public Func<int, int> DelegadoFunc; //retorna algo, recibe algo
         public Predicate<int> DelegadoPredicate; //retorna bool, recibe un objeto
+        CancellationTokenSource cancelTokenSource = new CancellationTokenSource();
 
         public event DelegadoCreado NoHayChocolate;
         public Form1()
@@ -100,6 +103,59 @@ namespace KioscoSegundoParcial
         private void button4_Click(object sender, EventArgs e)
         {
             this.label2.Text = DelegadoFunc((int)this.numericUpDown1.Value).ToString();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Task.Run(() => MetodoQueHaceAlgo(cancelTokenSource.Token));
+        }
+
+        public void MetodoQueHaceAlgo(CancellationToken token)
+        {
+           
+                if (!token.IsCancellationRequested)
+                {
+                                  
+                        if (this.label3.InvokeRequired)
+                        {
+                            this.label3.BeginInvoke((MethodInvoker)delegate ()
+                            {
+                                this.label3.Text = "soy una task desde otro hilo";
+
+                            });
+
+                        }
+                        else
+                        {
+                            this.label3.Text = "soy una task aca";
+                        }
+                     
+                }
+                else
+                {
+                    //cancela
+                    if (this.label3.InvokeRequired)
+                    {
+                        this.label3.BeginInvoke((MethodInvoker)delegate ()
+                        {
+                            this.label3.Text = "hola me cancelaron";
+
+                        });
+
+                    }
+                    else
+                    {
+                        this.label3.Text = "hola me cancelaron";
+                    }
+                }
+
+            
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            cancelTokenSource.Cancel();
+            this.label3.Text = "adios";
         }
     }
 }

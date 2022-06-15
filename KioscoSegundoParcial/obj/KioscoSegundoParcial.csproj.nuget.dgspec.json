@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\visual solutions\\KioscoSegundoParcial\\KioscoSegundoParcial\\KioscoSegundoParcial.csproj": {}
+    "C:\\Users\\user\\Desktop\\DelegadosForDummies\\KioscoSegundoParcial\\KioscoSegundoParcial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\visual solutions\\KioscoSegundoParcial\\KioscoSegundoParcial\\KioscoSegundoParcial.csproj": {
+    "C:\\Users\\user\\Desktop\\DelegadosForDummies\\KioscoSegundoParcial\\KioscoSegundoParcial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\visual solutions\\KioscoSegundoParcial\\KioscoSegundoParcial\\KioscoSegundoParcial.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\DelegadosForDummies\\KioscoSegundoParcial\\KioscoSegundoParcial.csproj",
         "projectName": "KioscoSegundoParcial",
-        "projectPath": "C:\\Users\\user\\Desktop\\visual solutions\\KioscoSegundoParcial\\KioscoSegundoParcial\\KioscoSegundoParcial.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\DelegadosForDummies\\KioscoSegundoParcial\\KioscoSegundoParcial.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\visual solutions\\KioscoSegundoParcial\\KioscoSegundoParcial\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\DelegadosForDummies\\KioscoSegundoParcial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -16,3 +16,21 @@ C:\Users\user\Desktop\visual solutions\KioscoSegundoParcial\KioscoSegundoParcial
 C:\Users\user\Desktop\visual solutions\KioscoSegundoParcial\KioscoSegundoParcial\obj\Debug\net5.0-windows\KioscoSegundoParcial.pdb
 C:\Users\user\Desktop\visual solutions\KioscoSegundoParcial\KioscoSegundoParcial\obj\Debug\net5.0-windows\KioscoSegundoParcial.genruntimeconfig.cache
 C:\Users\user\Desktop\visual solutions\KioscoSegundoParcial\KioscoSegundoParcial\obj\Debug\net5.0-windows\ref\KioscoSegundoParcial.dll
+C:\Users\user\Desktop\DelegadosForDummies\KioscoSegundoParcial\bin\Debug\net5.0-windows\KioscoSegundoParcial.exe
+C:\Users\user\Desktop\DelegadosForDummies\KioscoSegundoParcial\bin\Debug\net5.0-windows\KioscoSegundoParcial.deps.json
+C:\Users\user\Desktop\DelegadosForDummies\KioscoSegundoParcial\bin\Debug\net5.0-windows\KioscoSegundoParcial.runtimeconfig.json
+C:\Users\user\Desktop\DelegadosForDummies\KioscoSegundoParcial\bin\Debug\net5.0-windows\KioscoSegundoParcial.runtimeconfig.dev.json
+C:\Users\user\Desktop\DelegadosForDummies\KioscoSegundoParcial\bin\Debug\net5.0-windows\KioscoSegundoParcial.dll
+C:\Users\user\Desktop\DelegadosForDummies\KioscoSegundoParcial\bin\Debug\net5.0-windows\KioscoSegundoParcial.pdb
+C:\Users\user\Desktop\DelegadosForDummies\KioscoSegundoParcial\obj\Debug\net5.0-windows\KioscoSegundoParcial.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DelegadosForDummies\KioscoSegundoParcial\obj\Debug\net5.0-windows\KioscoSegundoParcial.Form1.resources
+C:\Users\user\Desktop\DelegadosForDummies\KioscoSegundoParcial\obj\Debug\net5.0-windows\KioscoSegundoParcial.csproj.GenerateResource.cache
+C:\Users\user\Desktop\DelegadosForDummies\KioscoSegundoParcial\obj\Debug\net5.0-windows\KioscoSegundoParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DelegadosForDummies\KioscoSegundoParcial\obj\Debug\net5.0-windows\KioscoSegundoParcial.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DelegadosForDummies\KioscoSegundoParcial\obj\Debug\net5.0-windows\KioscoSegundoParcial.AssemblyInfo.cs
+C:\Users\user\Desktop\DelegadosForDummies\KioscoSegundoParcial\obj\Debug\net5.0-windows\KioscoSegundoParcial.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DelegadosForDummies\KioscoSegundoParcial\obj\Debug\net5.0-windows\KioscoSegundoParcial.dll
+C:\Users\user\Desktop\DelegadosForDummies\KioscoSegundoParcial\obj\Debug\net5.0-windows\refint\KioscoSegundoParcial.dll
+C:\Users\user\Desktop\DelegadosForDummies\KioscoSegundoParcial\obj\Debug\net5.0-windows\KioscoSegundoParcial.pdb
+C:\Users\user\Desktop\DelegadosForDummies\KioscoSegundoParcial\obj\Debug\net5.0-windows\KioscoSegundoParcial.genruntimeconfig.cache
+C:\Users\user\Desktop\DelegadosForDummies\KioscoSegundoParcial\obj\Debug\net5.0-windows\ref\KioscoSegundoParcial.dll
